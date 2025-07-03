@@ -1,0 +1,8 @@
+{
+    "font_size": "16",
+    "theme": "dark",
+    "color_theme": "blue",
+    "sound": true,
+    "notification": true,
+    "time_per_question": 20
+}
