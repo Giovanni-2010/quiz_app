@@ -424,10 +424,10 @@
     "type":"boolean",
     "question":"دير الأنبا أنطونيوس هو أقدم دير مسيحي في العالم.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -436,10 +436,10 @@
     "type":"boolean",
     "question":"القداس الباسيلي هو القداس الوحيد المستخدم في الكنيسة القبطية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -448,10 +448,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بعيد دخول المسيح إلى مصر في 24 بشنس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -460,10 +460,10 @@
     "type":"boolean",
     "question":"الأنبا رويس خدم كبابا للإسكندرية في القرن الخامس عشر.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"قادة الكنيسة",
     "reference":"تاريخ البطاركة - ساويرس بن المقفع"
   },
@@ -472,10 +472,10 @@
     "type":"boolean",
     "question":"تمت كتابة سفر المزامير باللغة القبطية أولاً.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة الكتاب المقدس - دار المشرق"
   },
@@ -484,10 +484,10 @@
     "type":"boolean",
     "question":"القديسة دميانة هي شفيعة مرضى السرطان.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"سير القديسات - الأنبا إبيفانيوس"
   },
@@ -496,10 +496,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا أنطونيوس قبل دير الأنبا بولا.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -508,10 +508,10 @@
     "type":"boolean",
     "question":"يُحتفل بعيد الصليب ثلاث مرات في السنة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -520,10 +520,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس هو كاتب الإنجيل الثاني في العهد الجديد.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة إنجيل مرقس - الكتاب المقدس"
   },
@@ -532,10 +532,10 @@
     "type":"boolean",
     "question":"البابا شنودة الثالث هو البابا الـ 117 في تاريخ الكنيسة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"قادة الكنيسة",
     "reference":"قائمة البطاركة - البطريركية القبطية"
   },
@@ -544,10 +544,10 @@
     "type":"boolean",
     "question":"اللغة القبطية مكتوبة بالحروف اليونانية فقط.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"قواعد اللغة القبطية - إبراهيم لوقا"
   },
@@ -556,10 +556,10 @@
     "type":"boolean",
     "question":"تم اكتشاف مخطوطات نجع حمادي في عام 1945.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"مخطوطات نجع حمادي - جيمس روبنسون"
   },
@@ -568,10 +568,10 @@
     "type":"boolean",
     "question":"القديس الأنبا بيشوي هو تلميذ القديس الأنبا أنطونيوس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -580,10 +580,10 @@
     "type":"boolean",
     "question":"صوم يونان يسبق عيد القيامة بأسبوعين.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"اللاهوت الطقسي - الأنبا بيشوي"
   },
@@ -592,10 +592,10 @@
     "type":"boolean",
     "question":"القديس إيرينيوس هو تلميذ القديس بوليكاربوس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -604,10 +604,10 @@
     "type":"boolean",
     "question":"يقع دير المحرق في محافظة أسيوط.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -616,10 +616,10 @@
     "type":"boolean",
     "question":"القديس يوحنا ذهبي الفم هو أحد آباء الكنيسة القبطية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ آباء الكنيسة - كواستن"
   },
@@ -628,10 +628,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا رويس في 8 هاتور.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -640,10 +640,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس استشهد في مدينة روما.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -652,10 +652,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تعترف بسبعة أسرار مقدسة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"اللاهوت الطقسي - الأنبا بيشوي"
   },
@@ -1084,10 +1084,10 @@
     "type":"boolean",
     "question":"القديس الأنبا رويس هو ابن البابا كيرلس الرابع.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ البطاركة - ساويرس بن المقفع"
   },
@@ -1096,10 +1096,10 @@
     "type":"boolean",
     "question":"يقع دير الأنبا بولا في محافظة البحر الأحمر.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -1108,10 +1108,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا أنطونيوس في 30 طوبة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -1120,10 +1120,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس هو كاتب الإنجيل الأول في العهد الجديد.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة الأناجيل - الكتاب المقدس"
   },
@@ -1132,10 +1132,10 @@
     "type":"boolean",
     "question":"البابا تواضروس الثاني هو البابا الـ 118 في تاريخ الكنيسة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"قادة الكنيسة",
     "reference":"قائمة البطاركة - البطريركية القبطية"
   },
@@ -1144,10 +1144,10 @@
     "type":"boolean",
     "question":"اللغة القبطية تحتوي على 32 حرفًا.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"قواعد اللغة القبطية - إبراهيم لوقا"
   },
@@ -1156,10 +1156,10 @@
     "type":"boolean",
     "question":"تم اكتشاف مخطوطات البحر الميت في عام 1947.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"مخطوطات البحر الميت - جيمس فاندركام"
   },
@@ -1168,10 +1168,10 @@
     "type":"boolean",
     "question":"القديس الأنبا شنودة هو تلميذ القديس الأنبا بيشوي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -1180,10 +1180,10 @@
     "type":"boolean",
     "question":"صوم يونان يسبق عيد القيامة بأسبوع واحد.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"اللاهوت الطقسي - الأنبا بيشوي"
   },
@@ -1192,10 +1192,10 @@
     "type":"boolean",
     "question":"يقع دير المحرق في محافظة قنا.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -1204,10 +1204,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا بيشوي في 8 أبيب.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -1216,10 +1216,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس استشهد في مدينة الإسكندرية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -1228,10 +1228,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تعترف بثمانية أسرار مقدسة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"اللاهوت الطقسي - الأنبا بيشوي"
   },
@@ -1240,10 +1240,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاش 105 سنوات.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -1252,10 +1252,10 @@
     "type":"boolean",
     "question":"تم بناء دير السريان قبل دير الأنبا بيشوي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة وادي النطرون - الأب متى المسكين"
   },
@@ -1264,10 +1264,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بعيد دخول العائلة المقدسة إلى مصر في 24 بشنس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -1276,10 +1276,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس هو أول بطريرك للإسكندرية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ البطاركة - ساويرس بن المقفع"
   },
@@ -1288,10 +1288,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تستخدم ثلاث قداسات رئيسية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -1510,10 +1510,10 @@
     "type":"boolean",
     "question":"القديس الأنبا بيشوي هو أحد آباء برية شيهيت.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -1522,10 +1522,10 @@
     "type":"boolean",
     "question":"يقع دير السريان في صحراء الفيوم.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة وادي النطرون - الأب متى المسكين"
   },
@@ -1534,10 +1534,10 @@
     "type":"boolean",
     "question":"سفر الرؤيا هو آخر سفر في العهد القديم.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة الكتاب المقدس - دار المشرق"
   },
@@ -2036,10 +2036,10 @@
     "type":"boolean",
     "question":"القديس الأنبا رويس كان بطريركًا للكنيسة القبطية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ البطاركة - ساويرس بن المقفع"
   },
@@ -2048,10 +2048,10 @@
     "type":"boolean",
     "question":"يقع دير الأنبا أنطونيوس في محافظة البحر الأحمر.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -2060,10 +2060,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا شنودة في 7 أبيب.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -2072,10 +2072,10 @@
     "type":"boolean",
     "question":"سفر الأمثال هو من أسفار الأنبياء الكبار.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة العهد القديم - الكتاب المقدس"
   },
@@ -2084,10 +2084,10 @@
     "type":"boolean",
     "question":"اللغة القبطية تستخدم حروفًا من الديموطيقية المصرية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"قواعد اللغة القبطية - إبراهيم لوقا"
   },
@@ -2096,10 +2096,10 @@
     "type":"boolean",
     "question":"تم بناء دير المحرق في القرن الرابع الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -2108,10 +2108,10 @@
     "type":"boolean",
     "question":"القديس الأنبا بيشوي هو معاصر للقديس الأنبا أنطونيوس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -2120,10 +2120,10 @@
     "type":"boolean",
     "question":"صوم الرسل يسبق عيد الرسل.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"اللاهوت الطقسي - الأنبا بيشوي"
   },
@@ -2132,10 +2132,10 @@
     "type":"boolean",
     "question":"القديس إيرينيوس هو أسقف ليون.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -2144,10 +2144,10 @@
     "type":"boolean",
     "question":"يقع دير السريان في محافظة البحيرة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة وادي النطرون - الأب متى المسكين"
   },
@@ -2156,10 +2156,10 @@
     "type":"boolean",
     "question":"القديس يوحنا ذهبي الفم كتب ليتورجيا القداس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -2168,10 +2168,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس دفن في الإسكندرية أولاً.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -2180,10 +2180,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تعترف بسبعة مجامع مسكونية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ المجامع - الأنبا غريغوريوس"
   },
@@ -2192,10 +2192,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس ولد في قرية قمن العروس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -2204,10 +2204,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا بولا قبل دير الأنبا أنطونيوس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -2216,10 +2216,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بعيد دخول المسيح إلى الهيكل في 8 أمشير.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -2228,10 +2228,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس هو أول أسقف للإسكندرية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ البطاركة - ساويرس بن المقفع"
   },
@@ -2240,10 +2240,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تستخدم أربع قداسات رئيسية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -2532,10 +2532,10 @@
     "type":"boolean",
     "question":"القديس الأنبا رويس كان طبيبًا قبل رهبنته.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"سنكسار 8 هاتور"
   },
@@ -2544,10 +2544,10 @@
     "type":"boolean",
     "question":"يقع دير الأنبا بيشوي في محافظة المنيا.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -2556,10 +2556,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا مقار في 27 برمهات.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -2568,10 +2568,10 @@
     "type":"boolean",
     "question":"سفر طوبيا هو من الأسفار القانونية الثانية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"قرارات مجمع نيقية - 325م"
   },
@@ -2580,10 +2580,10 @@
     "type":"boolean",
     "question":"البابا كيرلس السادس هو البابا الـ 116 في تاريخ الكنيسة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"قادة الكنيسة",
     "reference":"قائمة البطاركة - البطريركية القبطية"
   },
@@ -2592,10 +2592,10 @@
     "type":"boolean",
     "question":"اللغة القبطية تحتوي على 7 لهجات رئيسية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"اللغة",
     "reference":"قواعد اللغة القبطية - إبراهيم لوقا"
   },
@@ -2604,10 +2604,10 @@
     "type":"boolean",
     "question":"تم بناء دير المحرق في القرن الثالث الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -2616,10 +2616,10 @@
     "type":"boolean",
     "question":"القديس الأنبا شنودة خدم ككاهن قبل رهبنته.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -2628,10 +2628,10 @@
     "type":"boolean",
     "question":"صوم السيدة العذراء يسبق عيد نياحتها.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"اللاهوت الطقسي - الأنبا بيشوي"
   },
@@ -2640,10 +2640,10 @@
     "type":"boolean",
     "question":"القديس إيرينيوس هو من آباء الكنيسة الغربية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ آباء الكنيسة - كواستن"
   },
@@ -2652,10 +2652,10 @@
     "type":"boolean",
     "question":"يقع دير الأنبا أنطونيوس في محافظة جنوب سيناء.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -2664,10 +2664,10 @@
     "type":"boolean",
     "question":"القديس يوحنا ذهبي الفم توفي في المنفى.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -2676,10 +2676,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس دفن أولاً في بوكاليا بالإسكندرية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -2688,10 +2688,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تعترف بثلاثة مجامع مسكونية فقط.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ المجامع - الأنبا غريغوريوس"
   },
@@ -2700,10 +2700,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاش 86 عامًا في البرية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -2712,10 +2712,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا بولا في القرن الرابع الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -2724,10 +2724,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس هو أول من بشر بالمسيحية في أفريقيا.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ الكنيسة الأفريقية - جون بيدل"
   },
@@ -2736,10 +2736,10 @@
     "type":"boolean",
     "question":"القداس الغريغوري هو الأكثر استخدامًا في الكنيسة القبطية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -2748,10 +2748,10 @@
     "type":"boolean",
     "question":"القديس الأنبا بيشوي كتب قوانين رهبانية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الرهبنة",
     "reference":"قوانين الأنبا بيشوي - مخطوطات دير الأنبا بيشوي"
   },
@@ -2760,10 +2760,10 @@
     "type":"boolean",
     "question":"يقع دير السريان في محافظة الفيوم.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة وادي النطرون - الأب متى المسكين"
   },
@@ -2772,10 +2772,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار استشهاد القديسة دميانة في 13 طوبة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -2784,10 +2784,10 @@
     "type":"boolean",
     "question":"سفر المكابيين الأول هو سفر تاريخي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة سفر المكابيين - الكتاب المقدس"
   },
@@ -2796,10 +2796,10 @@
     "type":"boolean",
     "question":"البابا شنودة الثالث كان أستاذًا للغة القبطية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"قادة الكنيسة",
     "reference":"سيرة البابا شنودة - إبراهيم لوقا"
   },
@@ -2808,10 +2808,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاصر اضطهاد دقلديانوس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -2820,10 +2820,10 @@
     "type":"boolean",
     "question":"تم بناء دير البراموس قبل دير الأنبا مقار.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -2832,10 +2832,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بعيد الصعود في 40 بؤونة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -2844,10 +2844,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس هو كاتب أول إنجيل.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة الأناجيل - الكتاب المقدس"
   },
@@ -2856,10 +2856,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تستخدم خمس قداسات مختلفة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -3148,10 +3148,10 @@
     "type":"boolean",
     "question":"القديس الأنبا رويس كان أسقفًا لدمياط.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"سنكسار 8 هاتور"
   },
@@ -3160,10 +3160,10 @@
     "type":"boolean",
     "question":"يقع دير السيدة العذراء - السريان في وادي النطرون.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -3172,10 +3172,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا بولا في 2 أمشير.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -3184,10 +3184,10 @@
     "type":"boolean",
     "question":"سفر طوبيا هو من الأسفار التاريخية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة سفر طوبيا - الكتاب المقدس"
   },
@@ -3196,10 +3196,10 @@
     "type":"boolean",
     "question":"البابا كيرلس الرابع هو البابا الـ 110 في تاريخ الكنيسة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"قادة الكنيسة",
     "reference":"قائمة البطاركة - البطريركية القبطية"
   },
@@ -3208,10 +3208,10 @@
     "type":"boolean",
     "question":"اللغة القبطية لا تزال تستخدم كلغة طقوس حتى اليوم.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"كتاب الخولاجي المقدس"
   },
@@ -3220,10 +3220,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا بولا في القرن الخامس الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -3232,10 +3232,10 @@
     "type":"boolean",
     "question":"القديس الأنبا شنودة كان تلميذًا للقديس الأنبا بيجول.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -3244,10 +3244,10 @@
     "type":"boolean",
     "question":"صوم الميلاد يسبق عيد الميلاد المجيد.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"اللاهوت الطقسي - الأنبا بيشوي"
   },
@@ -3256,10 +3256,10 @@
     "type":"boolean",
     "question":"القديس إيرينيوس هو من آباء الكنيسة الشرقية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ آباء الكنيسة - كواستن"
   },
@@ -3268,10 +3268,10 @@
     "type":"boolean",
     "question":"القديس يوحنا ذهبي الفم كتب قداسًا مستخدمًا في الكنيسة القبطية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -3280,10 +3280,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا بيجول في 10 أبيب.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -3292,10 +3292,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس دفن أولاً في كنيسة بوكاليا.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -3304,10 +3304,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تعترف بأربعة مجامع مسكونية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ المجامع - الأنبا غريغوريوس"
   },
@@ -3316,10 +3316,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاش 20 عامًا في عزلة تامة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -3328,10 +3328,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا مقار قبل دير البراموس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -3340,10 +3340,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بعيد دخول المسيح إلى الهيكل في 8 طوبة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -3352,10 +3352,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس هو كاتب آخر إنجيل.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة الأناجيل - الكتاب المقدس"
   },
@@ -3364,10 +3364,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تستخدم قداسًا واحدًا فقط.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -3376,10 +3376,10 @@
     "type":"boolean",
     "question":"القديس الأنبا بيشوي كان تلميذًا للقديس الأنبا أنطونيوس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -3388,10 +3388,10 @@
     "type":"boolean",
     "question":"سفر المكابيين الثاني هو سفر قانوني ثاني.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"قرارات مجمع نيقية - 325م"
   },
@@ -3400,10 +3400,10 @@
     "type":"boolean",
     "question":"البابا شنودة الثالث كان رئيسًا لدير السريان.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"قادة الكنيسة",
     "reference":"سيرة البابا شنودة - إبراهيم لوقا"
   },
@@ -3412,10 +3412,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاصر البابا أثناسيوس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -3424,10 +3424,10 @@
     "type":"boolean",
     "question":"تم بناء دير البراموس في القرن الرابع الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -3436,10 +3436,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بعيد العنصرة في 12 بؤونة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -3448,10 +3448,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس هو أول من بشر بالمسيحية في أوروبا.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"تاريخ الكنيسة",
     "reference":"أعمال الرسل 16: 9"
   },
@@ -3460,10 +3460,10 @@
     "type":"boolean",
     "question":"القداس الباسيلي هو الأقدم في الكنيسة القبطية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -3724,10 +3724,10 @@
     "type":"boolean",
     "question":"القديس الأنبا رويس كان أسقفًا للقدس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"سنكسار 8 هاتور"
   },
@@ -3736,10 +3736,10 @@
     "type":"boolean",
     "question":"يقع دير الأنبا أنطونيوس في محافظة السويس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -3748,10 +3748,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا إبرام في 3 كيهك.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -3760,10 +3760,10 @@
     "type":"boolean",
     "question":"سفر يشوع بن سيراخ هو من أسفار الحكمة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة سفر يشوع بن سيراخ - الكتاب المقدس"
   },
@@ -3772,10 +3772,10 @@
     "type":"boolean",
     "question":"البابا كيرلس الأول هو البابا الـ 24 في تاريخ الكنيسة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"قادة الكنيسة",
     "reference":"قائمة البطاركة - البطريركية القبطية"
   },
@@ -3784,10 +3784,10 @@
     "type":"boolean",
     "question":"اللغة القبطية تحتوي على 6 لهجات رئيسية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"اللغة",
     "reference":"قواعد اللغة القبطية - إبراهيم لوقا"
   },
@@ -3796,10 +3796,10 @@
     "type":"boolean",
     "question":"تم بناء دير السريان في القرن السادس الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"أديرة وادي النطرون - الأب متى المسكين"
   },
@@ -3808,10 +3808,10 @@
     "type":"boolean",
     "question":"القديس الأنبا شنودة كان كاهنًا قبل رهبنته.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -3820,10 +3820,10 @@
     "type":"boolean",
     "question":"صوم الرسل يسبق عيد استشهاد الرسولين بطرس وبولس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"اللاهوت الطقسي - الأنبا بيشوي"
   },
@@ -3832,10 +3832,10 @@
     "type":"boolean",
     "question":"القديس إيرينيوس هو من أصل يوناني.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ آباء الكنيسة - كواستن"
   },
@@ -3844,10 +3844,10 @@
     "type":"boolean",
     "question":"القديس يوحنا ذهبي الفم كان بطريركًا للقسطنطينية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -3856,10 +3856,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس استشهد في عهد الإمبراطور نيرون.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -3868,10 +3868,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تعترف بستة مجامع مسكونية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ المجامع - الأنبا غريغوريوس"
   },
@@ -3880,10 +3880,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاش 35 عامًا في عزلة تامة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -3892,10 +3892,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا مقار في القرن الرابع الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -3904,10 +3904,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بعيد الغطاس في 11 طوبة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -3916,10 +3916,10 @@
     "type":"boolean",
     "question":"القديس لوقا هو كاتب أول إنجيل.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة الأناجيل - الكتاب المقدس"
   },
@@ -3928,10 +3928,10 @@
     "type":"boolean",
     "question":"القداس الغريغوري هو الأكثر استخدامًا في الصوم الكبير.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -3940,10 +3940,10 @@
     "type":"boolean",
     "question":"القديس الأنبا بيشوي كان تلميذًا للقديس الأنبا بولا.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -3952,10 +3952,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار استشهاد القديسة كاترين في 8 كيهك.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -3964,10 +3964,10 @@
     "type":"boolean",
     "question":"سفر المكابيين الأول كتب باللغة العبرية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة سفر المكابيين - الكتاب المقدس"
   },
@@ -3976,10 +3976,10 @@
     "type":"boolean",
     "question":"البابا شنودة الثالث كان رئيسًا لدير الأنبا بيشوي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"قادة الكنيسة",
     "reference":"سيرة البابا شنودة - إبراهيم لوقا"
   },
@@ -3988,10 +3988,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاصر اضطهاد نيرون.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -4000,10 +4000,10 @@
     "type":"boolean",
     "question":"تم بناء دير البراموس في القرن الخامس الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -4012,10 +4012,10 @@
     "type":"boolean",
     "question":"القديس بولس هو أول من بشر بالمسيحية في أوروبا.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"أعمال الرسل 16: 9-10"
   },
@@ -4024,10 +4024,10 @@
     "type":"boolean",
     "question":"القداس الباسيلي هو الأكثر طولاً بين القداسات القبطية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -4316,10 +4316,10 @@
     "type":"boolean",
     "question":"القديس الأنبا رويس كان طبيبًا للخليفة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"سنكسار 8 هاتور"
   },
@@ -4328,10 +4328,10 @@
     "type":"boolean",
     "question":"يقع دير الأنبا صموئيل في محافظة الفيوم.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"دليل أديرة مصر - البطريركية القبطية"
   },
@@ -4340,10 +4340,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا كاراس في 5 أبيب.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -4352,10 +4352,10 @@
     "type":"boolean",
     "question":"سفر الحكمة هو من الأسفار الشعرية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة سفر الحكمة - الكتاب المقدس"
   },
@@ -4364,10 +4364,10 @@
     "type":"boolean",
     "question":"البابا ديمتريوس هو البابا الـ 12 في تاريخ الكنيسة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"قادة الكنيسة",
     "reference":"قائمة البطاركة - البطريركية القبطية"
   },
@@ -4376,10 +4376,10 @@
     "type":"boolean",
     "question":"اللغة القبطية تحتوي على حروف من الهيروغليفية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"اللغة",
     "reference":"قواعد اللغة القبطية - إبراهيم لوقا"
   },
@@ -4388,10 +4388,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا بيشوي في القرن الرابع الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -4400,10 +4400,10 @@
     "type":"boolean",
     "question":"صوم نينوى يسبق الصوم الكبير بأسبوعين.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"اللاهوت الطقسي - الأنبا بيشوي"
   },
@@ -4412,10 +4412,10 @@
     "type":"boolean",
     "question":"القديس يوحنا ذهبي الفم كان أسقفًا لأنطاكية قبل القسطنطينية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -4424,10 +4424,10 @@
     "type":"boolean",
     "question":"القديس مارمرقس استشهد خلال عيد القيامة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -4436,10 +4436,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تعترف بمجمع أفسس الأول كمجمع مسكوني.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ المجامع - الأنبا غريغوريوس"
   },
@@ -4448,10 +4448,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاش 20 عامًا في قبر قديم.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -4460,10 +4460,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا بولا في القرن الثالث الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -4472,10 +4472,10 @@
     "type":"boolean",
     "question":"القديس متى هو كاتب أول إنجيل.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة إنجيل متى - الكتاب المقدس"
   },
@@ -4484,10 +4484,10 @@
     "type":"boolean",
     "question":"القداس الباسيلي هو المستخدم في أعياد السيدة العذراء.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -4496,10 +4496,10 @@
     "type":"boolean",
     "question":"يقع دير السيدة العذراء - السريان في محافظة البحيرة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة وادي النطرون - الأب متى المسكين"
   },
@@ -4508,10 +4508,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار استشهاد القديسة مارينا في 23 أبيب.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -4520,10 +4520,10 @@
     "type":"boolean",
     "question":"سفر طوبيا هو سفر تاريخي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة سفر طوبيا - الكتاب المقدس"
   },
@@ -4532,10 +4532,10 @@
     "type":"boolean",
     "question":"البابا تواضروس الثاني كان رئيسًا لدير الأنبا بيشوي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"قادة الكنيسة",
     "reference":"سيرة البابا تواضروس - البطريركية القبطية"
   },
@@ -4544,10 +4544,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاصر البابا الكسندروس الأول.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -4556,10 +4556,10 @@
     "type":"boolean",
     "question":"تم بناء دير البراموس قبل دير الأنبا أنطونيوس.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -4568,10 +4568,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بعيد الصليب في 17 توت.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -4580,10 +4580,10 @@
     "type":"boolean",
     "question":"القديس بولس هو كاتب معظم أسفار العهد الجديد.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة الرسائل - الكتاب المقدس"
   },
@@ -4858,10 +4858,10 @@
     "type":"boolean",
     "question":"القديس الأنبا رويس كان أسقفًا للقاهرة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"القديسين",
     "reference":"سنكسار 8 هاتور"
   },
@@ -4870,10 +4870,10 @@
     "type":"boolean",
     "question":"يقع دير الأنبا توماس السائح في محافظة الأقصر.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"دليل أديرة مصر - البطريركية القبطية"
   },
@@ -4882,10 +4882,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار نياحة الأنبا أبرام في 3 كيهك.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -4894,10 +4894,10 @@
     "type":"boolean",
     "question":"سفر باروخ هو من الأسفار القانونية الثانية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"قرارات مجمع نيقية - 325م"
   },
@@ -4906,10 +4906,10 @@
     "type":"boolean",
     "question":"البابا بطرس الأول هو البابا الـ 17 في تاريخ الكنيسة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"قادة الكنيسة",
     "reference":"قائمة البطاركة - البطريركية القبطية"
   },
@@ -4918,10 +4918,10 @@
     "type":"boolean",
     "question":"اللغة القبطية تحتوي على 8 لهجات موثقة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"اللغة",
     "reference":"دراسات في اللهجات القبطية - جورج بدوي"
   },
@@ -4930,10 +4930,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا باخوميوس بالفيوم في القرن الرابع الميلادي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -4942,10 +4942,10 @@
     "type":"boolean",
     "question":"القديس الأنبا شنودة كان قبطيًا أصيلاً من صعيد مصر.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -4954,10 +4954,10 @@
     "type":"boolean",
     "question":"القديس إيرينيوس كتب كتاب 'ضد الهرطقات'.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ آباء الكنيسة - كواستن"
   },
@@ -4966,10 +4966,10 @@
     "type":"boolean",
     "question":"يقع دير الأنبا بولا في محافظة جنوب سيناء.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"أديرة مصر - الأب متى المسكين"
   },
@@ -4978,10 +4978,10 @@
     "type":"boolean",
     "question":"القديس يوحنا ذهبي الفم ولد في أنطاكية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الكنيسة - يوسابيوس القيصري"
   },
@@ -4990,10 +4990,10 @@
     "type":"boolean",
     "question":"الكنيسة القبطية تعترف بمجمع أفسس الثاني كمجمع مسكوني.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"تاريخ الكنيسة",
     "reference":"تاريخ المجامع - الأنبا غريغوريوس"
   },
@@ -5002,10 +5002,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاش 40 عامًا في الجبل الداخلي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -5014,10 +5014,10 @@
     "type":"boolean",
     "question":"تم بناء دير الأنبا مقار قبل دير الأنبا بيشوي.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -5026,10 +5026,10 @@
     "type":"boolean",
     "question":"القديس مرقس هو كاتب ثاني إنجيل.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة إنجيل مرقس - الكتاب المقدس"
   },
@@ -5038,10 +5038,10 @@
     "type":"boolean",
     "question":"القداس الباسيلي هو المستخدم في أيام الآحاد.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   },
@@ -5050,10 +5050,10 @@
     "type":"boolean",
     "question":"القديس الأنبا بيشوي كان معاصرًا للقديس الأنبا شنودة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"تاريخ الرهبنة - بالاديوس"
   },
@@ -5062,10 +5062,10 @@
     "type":"boolean",
     "question":"تحتفل الكنيسة بتذكار استشهاد القديسة فبرونيا في 12 أمشير.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"الأعياد",
     "reference":"السنكسار القبطي"
   },
@@ -5074,10 +5074,10 @@
     "type":"boolean",
     "question":"سفر يشوع هو أول أسفار الأنبياء.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الكتاب المقدس",
     "reference":"مقدمة العهد القديم - الكتاب المقدس"
   },
@@ -5086,10 +5086,10 @@
     "type":"boolean",
     "question":"البابا تواضروس الثاني كان أسقفًا للبحيرة.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"قادة الكنيسة",
     "reference":"سيرة البابا تواضروس - البطريركية القبطية"
   },
@@ -5098,10 +5098,10 @@
     "type":"boolean",
     "question":"القديس الأنبا أنطونيوس عاصر الإمبراطور قسطنطين.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"القديسين",
     "reference":"حياة الأنبا أنطونيوس - القديس أثناسيوس"
   },
@@ -5110,10 +5110,10 @@
     "type":"boolean",
     "question":"تم بناء دير البراموس قبل دير السريان.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"أديرة",
     "reference":"تاريخ الأديرة القبطية - الأب متى المسكين"
   },
@@ -5122,10 +5122,10 @@
     "type":"boolean",
     "question":"القديس بولس هو أول من بشر بالمسيحية في روما.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"False",
+    "right_answer":"خطأ",
     "topic":"تاريخ الكنيسة",
     "reference":"أعمال الرسل 28: 14-16"
   },
@@ -5134,10 +5134,10 @@
     "type":"boolean",
     "question":"القداس الغريغوري هو الأقصر بين القداسات القبطية.",
     "choices":[
-      "True",
-      "False"
+      "صح",
+      "خطأ"
     ],
-    "right_answer":"True",
+    "right_answer":"صح",
     "topic":"الطقوس",
     "reference":"كتاب القداسات القبطية - إبراهيم لوقا"
   }

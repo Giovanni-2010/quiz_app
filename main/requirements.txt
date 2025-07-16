@@ -1,3 +1,10 @@
 customtkinter
 CTkMessagebox
+arabic_reshaper
+bidi
 win10toast
+win10toast-click
+matplotlib
+seaborn
+pandas
+numpy

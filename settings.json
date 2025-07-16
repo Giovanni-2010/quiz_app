@@ -1,8 +1,8 @@
 {
-    "font_size": "16",
+    "font_size": "24",
     "theme": "dark",
-    "color_theme": "blue",
+    "color_theme": "dark-blue",
     "sound": true,
-    "notification": true,
-    "time_per_question": 20
+    "notification": false,
+    "time_per_question": 40
 }

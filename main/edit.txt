@@ -1,0 +1,4 @@
+- stop time in other taps
+- add notifications
+- update the score file 
+- 
